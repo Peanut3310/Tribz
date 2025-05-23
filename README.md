@@ -1,4 +1,3 @@
-```markdown
 # Tribz 🏙️
 
 Welcome to **Tribz**, a cozy city‑builder where every click shapes your tribe’s future!
@@ -74,4 +73,3 @@ A: Currently you can’t rotate, but you can drag them diagonally after placemen
 Made with love by the Tribz Dev Team.
 
 Happy building! 🏰✨
-```
