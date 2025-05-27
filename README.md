@@ -1,3 +1,20 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Tribz 🏙️
 
 Welcome to **Tribz**, a cozy city-builder where every click shapes your tribe’s future! Your goal: **survive 10 days** in the wilderness. 🎯
